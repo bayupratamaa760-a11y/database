@@ -1,4 +1,6 @@
-ryyz:ryyzown
-darz:darztk
-alif:aliftzy
-developer:dev1
+{
+  "akun": [
+    "admin:admin1",
+    "admin:admin2"
+  ]
+}
